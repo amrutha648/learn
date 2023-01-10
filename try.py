@@ -1,1 +1,5 @@
-print("I am trying to be nice ron")
+nice = input('Do u wnnna be nice?')
+if nice == 'yes':
+    print('Good for you')
+else:
+    print('WHY?')
