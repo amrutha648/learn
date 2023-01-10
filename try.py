@@ -1,6 +1,5 @@
-nice = input('Do u wanna be nice?')
+nice = input('Do u wnnna be nice?')
 if nice == 'yes':
     print('Good for you')
-    print('you looking happy')
 else:
     print('WHY?')
