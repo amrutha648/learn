@@ -5,3 +5,4 @@ else:
     y = input()
     if y == 'Dk':
         print('WHY?')
+print('Hello! HRU?')
